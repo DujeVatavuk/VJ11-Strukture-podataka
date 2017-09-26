@@ -1,0 +1,14 @@
+﻿  STRPOD2_VJ11.c
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(63): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(74): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(101): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(149): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(154): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj11\strpod2_vj11\strpod2_vj11.c(172): warning C4013: 'strcpy' undefined; assuming extern returning int
+  STRPOD2_VJ11.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ11\Debug\STRPOD2_VJ11.exe
+  STRPOD2_VJ11.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ11\Debug\STRPOD2_VJ11.pdb (Full PDB)
